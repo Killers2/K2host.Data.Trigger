@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("K2host.Data.Trigger")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("An MsSql database trigger service using MsSql Server clr attachment for the K2host.Data library.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("K2host.co.uk")]
 [assembly: AssemblyProduct("K2host.Data.Trigger")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright © K2host.co.uk 2020")]
+[assembly: AssemblyTrademark("K2host.co.uk")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
